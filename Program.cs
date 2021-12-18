@@ -15,6 +15,7 @@ namespace SimpleCSharpApp
             Console.WriteLine("Hello World");
             Console.WriteLine();
             //Ожидать нажатие клавиши <Enter>, прежде чем завершить работу.
+            //Новый коммент для ГИТХАБ
             Console.ReadLine();
         }
     }
